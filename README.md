@@ -27,6 +27,10 @@ Please answer the following questions below, you may edit the readme file to inc
         Accesible websites are designed to be inclusive, to accomodate anyone and everyone. Most importantly to include people with disablities.
 
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+    
+     - Use reponsive units if the user has changed font settings
+     - Use proper semantics for people with screen reader
+     - Use high contrast colors for people with vision problems
 
 
     3. How would you explain the concept of a variable to someone new to programming?
